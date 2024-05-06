@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: demo1
+pool: trial
 
 
 steps:
